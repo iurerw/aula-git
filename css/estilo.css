@@ -1,0 +1,63 @@
+header {
+    margin: 20px;
+}
+
+header > img {
+    width: 100%;
+    border-radius: 1%;
+}
+
+h1 {
+    margin:  0.3em;
+    font-style: italic;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5em;
+    text-align: center;
+}
+
+nav {
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 2em;
+    padding: 0.8em;
+    margin-left: -0.3em;
+    margin-right: -0.3em;
+}
+
+nav > a {
+    margin: 1em;
+}
+
+main {
+    margin: 20px;
+    font-size: 1em;
+}
+
+h2 {
+    background-image: linear-gradient(to right, #eee, white);
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 0.5em;
+    font-weight: bold;
+    padding: 0.3em;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+    padding: 0.8em;
+    margin-left: -0.3em;
+    margin-right: -0.3em;
+}
+
+footer > p {
+    text-align: center;
+    margin: 1em;
+    color: white;
+    text-decoration: none;
+    font-size: 0.8em;
+}
