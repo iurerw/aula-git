@@ -56,10 +56,3 @@ html {
   -moz-box-sizing: inherit;
   box-sizing: inherit;
 }
-a:link,
-a:active,
-a:hover,
-a:visited {
-	color: inherit;
-	text-decoration: inherit;
-}
